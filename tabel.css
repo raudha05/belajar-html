@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.header-1 {
+  margin-right: 100px;
+}
+
+.header-2 {
+  margin-left: 1230px;
+}
+
+.header-3 {
+  margin-top: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+.no-border td:first-child,
+.no-border td:last-child {
+  border: none;
+}
+
+.p-1 {
+  text-align: right;
+}
+
+.p-2,
+.p-3,
+.p-4,
+.p-5 {
+  margin: 35;
+}
+
+.Jonas {
+  text-align: right;
+  font-size: 1.2em;
+  font-weight: bold;
+  margin-top: 20px;
+}
