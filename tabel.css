@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .header-1 {
@@ -26,10 +26,6 @@ td {
   text-align: left;
 }
 
-th {
-  background-color: #f2f2f2;
-}
-
 .no-border td:first-child,
 .no-border td:last-child {
   border: none;
@@ -49,6 +45,5 @@ th {
 .Jonas {
   text-align: right;
   font-size: 1.2em;
-  font-weight: bold;
   margin-top: 20px;
 }
